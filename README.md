@@ -1,3 +1,3 @@
 # AutoComplete
-jQuery Bootstrap AutoComplete library for input field search.
+jQuery Bootstrap AutoComplete module for input autocomplete.
 For more info see demo.js

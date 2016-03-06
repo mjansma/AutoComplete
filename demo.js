@@ -11,7 +11,7 @@ $(document).ready(function(){
 		//Min length of characters before autocomplete will be triggered
 		minLength 	 : 3,
 		//Path to dataset. Path will be completed with '?query='
-		dataURL   	 : 'http://admin.diobedum.tmp/dataset.json',
+		dataURL   	 : 'https://raw.githubusercontent.com/mjansma/AutoComplete/master/dataset.json',
 		//Label which will be shown in autocomplete 
 		label	  	 : 'UserName',
 		//If set to false, autocomplete does not filter the datasource for you
